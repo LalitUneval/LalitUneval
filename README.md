@@ -1,78 +1,57 @@
 <h1 align="center">Hi 👋, I'm Lalit Uneval</h1>
-<h3 align="center">🚀 Backend Developer | Java & Spring Boot Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lalituneval&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lalituneval&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
-  </a>
-</p>
+<p align="center">A passionate Java backend developer diving into Spring Boot and Microservices</p>
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Spring Security & Microservices**
-- 👯 Looking to collaborate on **Spring Boot & Backend Projects**
-- 🤝 Seeking help with **Optimizing REST APIs & Database Performance**
-- 👨‍💻 All my projects are available at **[My GitHub](https://github.com/LalitUneval)**
-- 💬 Ask me about **Spring Boot, JPA, REST APIs, Database Design**
-- 📫 How to reach me **unevallalit6499@gmail.com**
-- ⚡ Fun fact **I enjoy debugging more than writing code! 😆**
+
+- 🔭 I’m currently working on building **Spring Boot backend systems**
+- 🌱 I’m learning **Microservices architecture**
+- 💡 Exploring concepts like **Spring Security**, **JWT**, and **RESTful APIs**
+- 💬 Ask me about **Java, Spring Boot, Spring Data JPA, MySQL**
+- ✨ I enjoy building **clean and secure backend applications**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/uneval-lalit-106455355/)
 
 ---
 
-### 📲 Connect with me:
+### 🛠️ Skills
+
+- **Languages:** Java, SQL, HTML, CSS, JavaScript (Basic)
+- **Frameworks:** Spring Boot, Spring MVC, Spring Data JPA, Spring Security
+- **Databases:** MySQL, PostgreSQL
+- **Other:** REST APIs, JWT, Git, GitHub, Basic Microservices
+
+---
+
+### 🌐 Socials
+
 <p align="left">
-<a href="https://www.leetcode.com/lalitcoder-12345" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://github.com/LalitUneval" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/uneval-lalit-106455355/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/LalitUneval">
+  <img src="https://github-readme-stats.vercel.app/api?username=LalitUneval&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="LalitUneval's GitHub stats" />
 </a>
-</p>
+
+<a href="https://github.com/LalitUneval">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LalitUneval&theme=radical&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<a href="https://github.com/LalitUneval">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitUneval&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</a>
 
 ---
 
-### 🛠️ Tech Stack & Tools:
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalituneval&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalituneval&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/></p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalituneval&theme=radical" alt="GitHub Streak"/>
-</p>
+<!-- Optionally you can add a quote or motto -->
+> “Code with purpose. Build with passion.” 🚀
